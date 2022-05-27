@@ -18,6 +18,6 @@ ___
 # Placement
 
 <a name="contribute"></a>
-# Contributing
+# Contribute
 Please see [CONTRIBUTE](https://github.com/wponghiran/physical-design_resources/blob/main/Contribute.md) for details.
 
