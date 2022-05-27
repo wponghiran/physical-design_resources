@@ -1,4 +1,4 @@
-# Physical-design_resources
+# Physical Design Resources
 
 
 ## Table of Contents:
